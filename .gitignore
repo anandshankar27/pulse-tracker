@@ -1,0 +1,10 @@
+# .gitignore
+
+# dependencies
+/node_modules
+
+# logs
+*.log
+
+# environment variables
+.env

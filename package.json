@@ -1,0 +1,29 @@
+{
+    "name": "pulse-tracker",
+    "version": "1.0.0",
+    "description": "A performance monitoring middleware for Node.js applications",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/anandshankar27/pulse-tracker.git"
+    },
+    "keywords": [
+        "node.js",
+        "performance",
+        "monitoring",
+        "middleware"
+    ],
+    "author": "Anand Shankar",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/anandshankar27/pulse-tracker/issues"
+    },
+    "homepage": "https://github.com/anandshankar27/pulse-tracker#readme",
+    "dependencies": {
+        "winston": "^3.9.0",
+        "winston-daily-rotate-file": "^4.7.1"
+    }
+}
